@@ -1,0 +1,17 @@
+{
+  "name": "projects",
+  "homepage": "https://github.com/gpestana/projects",
+  "authors": [
+    "gpestana <g6pestana@gmail.com>"
+  ],
+  "description": "personal projects page",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}

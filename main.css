@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Fugaz+One);
+@import url(https://fonts.googleapis.com/css?family=Monda);
+
+body {
+	margin:0px;
+	padding: 0px; 
+}
+
+h1 {
+	font-family: 'Fugaz One';
+	margin-top: 10px;
+    margin-bottom: 35px;
+	color: #817a74;
+	font-size: 64px;
+    line-height: 52px;
+    opacity: 1;
+}
+
+h5 {
+	color: #817a74;
+	font-size: 10px;
+    line-height: 15px;
+    opacity: 1;	
+    margin-top: 30px;
+}
+
+p {
+	font-family: 'Monda';
+}
+
+.header p {
+	text-align: justify;
+	font-size: 17px;
+    line-height: 25px;
+}
+
